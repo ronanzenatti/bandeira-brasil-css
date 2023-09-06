@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
 }
+
 .bandeira {
   background: #009541;
   height: 300px;
@@ -26,6 +27,7 @@
   border-right: 240px solid transparent;
   z-index: 0;
 }
+
 .losango::before {
   content: '';
   position: absolute;
